@@ -1,4 +1,4 @@
-# BWT-algorithm
+# BWT-algorithm Project from DSA Course HCMUS-VNU
 Research Burrows–Wheeler Transform Algorithm
 
 # Cấu trúc thư mục
